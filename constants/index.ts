@@ -38,6 +38,8 @@ export const manufacturers = [
   "Subaru",
   "Tesla",
   "Toyota",
+  "Tata",
+  "Mahindra",
   "Volkswagen",
   "Volvo",
 ];
@@ -83,8 +85,8 @@ export const footerLinks = [
   {
     title: "Company",
     links: [
-      { title: "Events", url: "/" },
-      { title: "Blog", url: "/" },
+      { title: "dummy", url: "/" },
+      { title: "dummy", url: "/" },
       { title: "Podcast", url: "/" },
       { title: "Invite a friend", url: "/" },
     ],
@@ -92,10 +94,8 @@ export const footerLinks = [
   {
     title: "Socials",
     links: [
-      { title: "Discord", url: "/" },
-      { title: "Instagram", url: "/" },
-      { title: "Twitter", url: "/" },
-      { title: "Facebook", url: "/" },
+      { title: "github", url: "https://www.github.com/srinivastheja" },
+      { title: "LinkedIn", url: "https://www.linkedin.com/in/srinivastejav/" },
     ],
   },
 ];
